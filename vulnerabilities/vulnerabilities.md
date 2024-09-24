@@ -9,7 +9,7 @@
   - Vulnerable Endpoints
     - GET /api/authors
     - GET /api/books
-
+ 
 # Broken Object Level Authorization
 
 - Vulnerable Endpoints
